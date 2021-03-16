@@ -1,0 +1,13 @@
+.input-error{
+    border-color: red;
+    border-width: medium;
+    color: red;
+}
+
+.margin-all{
+    margin: 10px 0 5px 0;
+}
+
+.margin-left-2{
+    margin-left: 10;
+}
